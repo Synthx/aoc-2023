@@ -1,5 +1,5 @@
-import 'day_4.dart';
+import 'day_5.dart';
 
 void main() async {
-  await playDay4();
+  await playDay5();
 }
