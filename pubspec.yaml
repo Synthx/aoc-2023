@@ -1,6 +1,6 @@
 name: aoc_2023
 description: A sample command-line application.
-version: 23.12.5
+version: 23.12.6
 publish_to: 'none'
 
 environment:
